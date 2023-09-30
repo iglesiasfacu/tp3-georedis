@@ -1,0 +1,18 @@
+{
+  "name": "tp3-geolocalizacion",
+  "version": "1.0.0",
+  "description": "Api with nodejs, express and redis",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./src/index.js"
+  },
+  "author": "Facundo Iglesias",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "georedis": "^3.1.3",
+    "nodemon": "^2.0.20",
+    "redis": "^4.3.1"
+  }
+}

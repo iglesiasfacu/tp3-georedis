@@ -1,0 +1,11 @@
+.create {
+  background-color: rgba(222, 222, 222, 0.5);
+  min-height: 75vh;
+  width: 75%;
+  display: flex;
+  gap: 5rem;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 1rem;
+}
